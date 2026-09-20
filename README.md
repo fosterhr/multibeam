@@ -6,6 +6,8 @@ Multiplayer for BeamNG.drive 0.39. Run a server, install the mod, join with an I
 
 There are three folders. Server is for whoever hosts, Client is for everyone, Bridge is only for people joining a server that isn't on their own PC.
 
+Special thanks to [SADxHIPPO](https://github.com/SADxHIPPO) for testing over and over and over.
+
 ## Host a server
 
 1. Copy the `Server` folder somewhere.
