@@ -1,0 +1,5 @@
+# MultiBeam bridge configuration (YAML)
+# The remote MultiBeam server this bridge connects you to, as IP:PORT
+server: 
+# Local port the game connects to. In the game, add 127.0.0.1:<this port> as a server.
+listen: 30800

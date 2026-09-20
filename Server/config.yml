@@ -1,0 +1,11 @@
+# MultiBeam server configuration (YAML). Restart the server after editing.
+name: My MultiBeam Server
+port: 30814
+maxplayers: 16
+maxvehicles: 10   # per player
+# level folder name, e.g. gridmap_v2, west_coast_usa, italy, east_coast_usa, utah
+map: west_coast_usa
+# leave empty for a public server
+password: ""
+motd: Welcome to MultiBeam!
+career: true
