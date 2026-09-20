@@ -9,6 +9,8 @@ There are three folders. Server is for whoever hosts, Client is for everyone, Br
 Special thanks to [SADxHIPPO](https://github.com/SADxHIPPO) for testing over and over and over.
 Join the [MultiBeam Discord](https://discord.gg/rbNumJPmqE) for troubleshooting, testing, and more!!
 
+NOTE: Most code is generated with Claude Code alongside human testing. This is due to my lack of technical knowledge about C# & Lua. Just here to have fun with Beam.NG :) 
+
 ## Host a server
 
 1. Copy the `Server` folder somewhere.
